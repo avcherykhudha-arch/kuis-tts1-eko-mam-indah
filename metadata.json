@@ -1,0 +1,6 @@
+{
+  "name": "Tantangan TTS Ekonomi - Bu Indah",
+  "description": "Kuis Teka-Teki Silang Interaktif mata pelajaran Ekonomi SMA materi Permintaan dan Penawaran untuk Interactive Flat Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
